@@ -3,8 +3,8 @@
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-theme-minimalism"
   spec.version       = "0.1.13"
-  spec.authors       = ["showzeng"]
-  spec.email         = ["kingstageshow@gmail.com"]
+  spec.authors       = ["chriswang"]
+  spec.email         = ["wang2962525728@gmail.com"]
 
   spec.summary       = "Minimalism is a jekyll theme for minimalist"
   spec.homepage      = "https://github.com/showzeng/minimalism"
